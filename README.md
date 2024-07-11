@@ -3,4 +3,6 @@
 
 stats for my last fm listening history
 
-https://mainstream.ghan.nl/export.html
+Using:
+- https://mainstream.ghan.nl/export.html
+- https://lastfm.ghan.nl/export/
